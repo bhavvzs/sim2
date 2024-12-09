@@ -1,3 +1,3 @@
-"print("hello world")" 
-"print('branch1')"
-"print('branch2')"
+print("hello world") 
+print('conflict resolved')
+
